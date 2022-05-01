@@ -1,0 +1,2 @@
+# NoOsPerELX
+just learning python 
